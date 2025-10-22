@@ -1,0 +1,5 @@
+[
+  {"LoadFactor":100,"LinearProbing":2.1,"QuadraticProbing":1.9,"Chaining":1.0},
+  {"LoadFactor":200,"LinearProbing":2.6,"QuadraticProbing":2.3,"Chaining":1.0},
+  {"LoadFactor":300,"LinearProbing":3.2,"QuadraticProbing":2.7,"Chaining":1.0}
+]
